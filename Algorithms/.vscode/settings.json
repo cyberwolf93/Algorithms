@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "*.swift.result": "swift",
+        "*.swift.gyb": "swift",
+        "*.gyb": "swift",
+        "*.cpp.gyb": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "istream": "cpp",
+        "unordered_map": "cpp",
+        "iosfwd": "cpp",
+        "regex": "cpp",
+        "string": "cpp",
+        "sstream": "cpp",
+        "algorithm": "cpp",
+        "iostream": "cpp",
+        "utility": "cpp",
+        "stack": "cpp",
+        "exception": "cpp",
+        "map": "cpp",
+        "queue": "cpp",
+        "__functional_base": "cpp"
+
+    }
+}
